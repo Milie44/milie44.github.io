@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<title>Emilie Gieler</title>
+		<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+		<link type="text/css" rel="stylesheet" href="reset.css" />
+		<link type="text/css" rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		<div id="container">
+			<p id="title">Emilie Gieler</p>
+			<p id="subtitle">Product Manager</p>
+			<div>
+				<ul class="icons clearfix">
+					<li class="icon linkedin"><a href="http://fr.linkedin.com/in/egieler"><img src="linkedin.png" alt="LinkedIn" /></a></li>
+					<li class="icon linkedin"><a href="https://twitter.com/EmilieGieler"><img src="twitter.png" alt="Twitter" /></a></li>
+					<li class="icon linkedin"><a href="http://www.pinterest.com/egieler"><img src="pinterest.png" alt="Pinterest" /></a></li>
+				</ul>
+			</div>
+		</div>
+	</body>
+	
+</html>
